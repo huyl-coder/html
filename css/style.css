@@ -1,0 +1,96 @@
+*{padding:0;margin:0}
+body{font-size:12px;font-family:arial,roboto}
+.header{background:#009cff;width:100%;height:40px}
+.header1{max-width:1200px;margin:auto;border-bottom:1px solid white;height:40px;line-height:40px}
+.float-left img{float:left}
+.float-right{float:right}
+.display li{display:inline-block;width:200px;color:white}
+.fiexd{position:fixed;top:0;left:0;z-index:100;width:100%}
+.menu{background:#009cff;width:100%;height:50px}
+.header2{max-width:1200px;margin:auto;text-align:center}
+.menuitem li{display:inline-block;line-height:50px;padding-left:30px;color:white;text-align:center}
+.menuitem li:hover{text-decoration:underline;cursor:pointer}
+.tieude{background:#009cff;width:100%;height:590px;padding-top:100px}
+.canchinh{max-width:600px;margin:auto}
+.dangki{background:none;border:1px solid white;width:380px;height:400px;border-radius:20px}
+input[type="text"]{background:none;color: #009cff;height:35px;font-size: 13px;width:90%;margin-top:20px;margin-left:20px;border:1px solid white }
+.dangki select{background:none;height:35px;margin-left:20px;width:90%;text-align:center;margin-top:20px;border:1px solid white;font-size:13px;color:white}
+.dangki p:nth-child(1){text-align:center;padding-top:20px;color:white;font-size:20px;padding-bottom:-10px}
+::-webkit-input-placeholder {color:white}
+.dangki button{background:#009cff;color:white;width:150px;height:40px;border:1px solid #009cff;margin-top:20px; margin-left:28%}
+.dangki button:hover{background:#287fd6}
+.canchinh button{background:#009cff;color:white;width:150px;height:40px;border:1px solid #009cff;margin-top:20px;font-size:15px}
+.canchinh button:hover{background:#287fd6}
+.tieude1{background:white;width:100%;height:620px;border-bottom:4px solid #009cff}
+.max-width{max-width:1100px;margin:auto;text-align:center}
+.chu{max-width:300px;margin:auto;text-align:center}
+.chu h3{font-weight:bold;color:#009cff;padding-top:50px}
+.ke{background:#009cff;width:100%;height:1px}
+.col-md-4{width:33%;float:left;padding-top:20px}
+.khung{border:1px solid lightgray;height:380px;text-align:center;border-radius:5%}
+.dinh1{color:gray;padding-top:10px}
+.dinh{color:black;font-size:18px;padding-top:10px;padding-bottom:10px}
+.ghe button{background:#009cff;border:1px solid #009cff;color:white;width:150px;height:40px;margin-top:30px;border-radius:20px}
+.ghe button:hover{background:#287fd6}
+.diadiem{background:#009cff;width:100%;height:650px;border-bottom:4px solid #009cff}
+.hover{border-bottom:4px solid #009cff}
+.khung img{border-radius:5%;}
+.khung:hover {
+border-radius:5%; box-shadow: 15px 15px 6px -6px grey;
+}
+.khung {
+-webkit-transition: all 0.7s ease; transition: all 0.7s ease;
+}
+.hover {
+    display: inline-block;
+    overflow: hidden !important;
+    
+  }
+ .hover img:hover {
+    opacity: 0.9;
+    transform: scale(1.1);
+	-webkit-transition: all 1.5s ease; transition: all 1.5s ease;
+  }
+
+.diadiem1{max-width:1100px;margin:auto;padding-top:20px}
+.diadiem1 p{color:white}
+.diadiem1 h3{font-weight:bold;color:white}
+.ke1{background:white;width:100%;height:2px}
+.col-md-6{width:50%;float:left}
+.col-md-3{width:25%;float:left}
+.diadiemm{background:#009cff;width:100%;height:500px;border-bottom:4px solid white}
+.tieude2{background:url(../images/43nam-cover.jpg) no-repeat;width:100%;height:400px;background-attachment:fixed}
+.tieude21{max-width:1000px;margin:auto;text-align:center;padding-top:80px}
+.tieude21 p:nth-child(1){font-size:18px;color:white;padding-bottom:10px}
+.tieude21 h3{font-size:30px;color:white;padding-bottom:20px}
+.tieude21 p:nth-child(3){font-size:18px;color:white;padding-bottom:10px}
+.tieude21 button{background:white;width:150px;height:40px;color:#009cff;border:1px solid white}
+.tieude21 button:hover{background:#009cff;color:white}
+.tieude3{background:white;width:100%;height:500px;border-bottom:4px solid #009cff }
+.tieude31{max-width:1100px;margin:auto;padding-top:30px}
+.chu1{max-width:500px;margin:auto;text-align:center}
+.chu1 h3{font-weight:bold;color:#009cff;padding-top:50px}
+table{width:100%;text-align:center;padding-top:30px;height:300px;font-size:16px}
+tr:nth-child(odd){background:#e5e5e5;height:35px}
+tr:nth-child(1){background-color:#009cff;color:white;height:35px;text-align:center}
+tr:nth-child(even){background:#cccccc;height:35px}
+th{text-align:center}
+.tieude4{background:url(../images/h-3.fw.png) no-repeat;width:100%;height:300px;background-attachment:fixed}
+.tieude5{background:white;width:100%;height:500px}
+.tieude51{max-width:1100px;margin:auto;padding-top:30px}
+.tieude51 .dinh:hover{color:#009cff;cursor:pointer}
+.footer{background:url(../images/h-3.fw.png);width:100%;height:300px;background-attachment:fixed;}
+.footer1{max-width:1100px;margin:auto;padding-top:40px;color:white}
+.footer1 h4{font-size:19px;font-weight:bold}
+.footer1 p{padding-top:10px}
+.icon1{width:40px;height:40px;border-radius:40px;border:1px solid white;line-height:40px;text-align:center}
+.footer2 p{display:inline-block;margin-top:10px;margin-right:10px}
+.fa {color:#009cff}
+.icon1:hover{background:white}
+.fa-phone{color:white}
+.t1{color:white;padding-right:30px}
+.t2{color:white;padding-right:30px}
+.t3{color:white;padding-right:30px}
+.t4{color:white}
+.fa-map-o{color:white;padding-right:20px}
+.thaymau{background:#009cff}

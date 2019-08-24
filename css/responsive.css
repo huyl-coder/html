@@ -1,0 +1,78 @@
+@media (max-width: 800px){
+.float-left img{margin-left:35%}
+.menu{background:#009cff;width:100%;height:100px}
+.float-right .menuitem {margin-left:-25%}
+.canchinh{display:none}
+.float-right .dangki{margin-left:-100%}
+.grid .col-md-4{width:90%;margin-left:35px}
+.diadiem{height:1300px}
+.grid1 .col-md-3{width:48%;margin-left:15px;margin-bottom:10px}
+.diadiemm{height:900px}
+.diadiem1 h3{padding-left:20px}
+.diadiem1 p{padding-left:20px}
+.footer{height:760px}
+.footer1 .col-md-3{width:90%}
+.footer1 h4{padding-top:20px}
+}
+@media (max-width: 768px){
+	.grid1 .col-md-3{width:45%;margin-left:15px;margin-bottom:10px}
+}
+@media (max-width: 667px){
+	.float-right .menuitem {margin-left:-8%}
+	.float-left img{margin-left:30%}
+	table{width:90%;margin-left:30px}
+	.tieude51 .col-md-3{width:48%;margin-bottom:20px}
+	.tieude5{height:900px}
+}
+@media (max-width: 640px){
+	.grid1 .col-md-3{width:45%;margin-bottom:10px}
+	.grid .col-md-6{width:90%;margin-left:35px}
+	.float-right .menuitem {margin-left:-5%}
+	.float-right .dangki{margin-left:-80%}
+	.diadiem{height:1580px}
+}
+@media (max-width: 480px){
+	.menu{height:150px}
+	.float-left img{margin-left:25%;margin-top:10px}
+	.header{display:none}
+	.float-right .dangki{margin-left:-70%}
+	.max-width .col-md-4{width:90%;margin-left:20px;margin-top:20px}
+	.tieude1{height:1500px}
+	.grid .col-md-6{width:90%;margin-left:20px}
+	.grid .col-md-4{width:90%;margin-left:20px}
+	.grid1 .col-md-3{width:90%;margin-bottom:10px;margin-left:50px}
+	.diadiemm{height:1600px}
+	table{width:92%;margin-left:20px}
+	.footer{height:800px}
+	.tieude51 .col-md-3{width:90%;margin-left:20px}
+	.tieude5{height:1800px}
+}
+@media (max-width: 414px){
+.float-right .dangki{margin-left:-60%}
+.grid1 .col-md-3{width:90%;margin-bottom:10px;margin-left:30px}
+.footer{height:880px}
+.tieude3{height:550px}
+}
+@media (max-width: 375px){
+	.float-left img{margin-left:17%;margin-top:10px}
+	.grid1 .col-md-3{width:90%;margin-bottom:10px;margin-left:10px}
+	table{width:92%;margin-left:10px}
+	.tieude3{height:600px}
+}
+@media (max-width: 360px){
+	.menuitem li{padding-left:10px}
+	.dangki{width:350px}
+	.grid .col-md-6{width:90%;margin-left:5px}
+	.grid .col-md-4{width:90%;margin-left:5px}
+	.grid1 .col-md-3{width:90%;margin-bottom:10px;margin-left:5px}
+	.tieude3{display:none}
+	.diadiem{height:1500px}
+}
+@media (max-width: 320px){
+	.float-left img{margin-left:10%;margin-top:10px}
+	.dangki{width:330px}
+	.grid .col-md-6{margin-left:-15px}
+	.grid .col-md-4{margin-left:-15px}
+	.grid1 .col-md-3{margin-left:-15px}
+}
+
